@@ -18,13 +18,7 @@ The main goal is to **practice, experiment, and keep a record** of my progress. 
 The organization is flexible and adjusts depending on the type of content (notebooks, notes, scripts, mini-projects). A general reference:
 
 ```
-.
-├── notebooks/        # Jupyter notebooks for practice and experimentation
-├── notes/            # Markdown notes on theory and concepts
-├── projects/         # Mini-projects or more complete exercises
-├── scripts/          # Standalone Python scripts
-├── resources/        # Small datasets, images, supporting material
-└── README.md
+Pending
 ```
 
 > 📌 Not all folders exist from the start — they're created as the content requires them.
